@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="11" SoundbankVersion="134">
 	<RootPaths>
-		<ProjectRoot>C:\Users\monolok\Documents\Unreal Projects\ALMP_Template\ALMP_Template_WwiseProject\</ProjectRoot>
-		<SourceFilesRoot>C:\Users\monolok\Documents\Unreal Projects\ALMP_Template\ALMP_Template_WwiseProject\.cache\Mac\</SourceFilesRoot>
-		<SoundBanksRoot>C:\Users\monolok\Documents\Unreal Projects\ALMP_Template\ALMP_Template_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ProjectRoot>C:\Users\monolok\Documents\Unreal Projects\ALMP_Template_2\ALMP_Template_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\monolok\Documents\Unreal Projects\ALMP_Template_2\ALMP_Template_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\monolok\Documents\Unreal Projects\ALMP_Template_2\ALMP_Template_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>C:\Users\monolok\Documents\Unreal Projects\ALMP_Template\ALMP_Template_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>C:\Users\monolok\Documents\Unreal Projects\ALMP_Template_2\ALMP_Template_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>

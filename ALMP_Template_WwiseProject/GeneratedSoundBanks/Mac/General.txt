@@ -11,9 +11,9 @@ Auxiliary Bus	ID	Name			Wwise Object Path	Notes
 	336470629	Poltergeist_Aux_Bus			\Default Work Unit\Poltergeist Master Bus\Poltergeist_Aux_Bus	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	88913929	laugh 2	C:\Users\monolok\Documents\Unreal Projects\ALMP_Template\ALMP_Template_WwiseProject\.cache\Mac\SFX\laugh 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Laugh\laugh 2		617536
-	595964375	laugh 3	C:\Users\monolok\Documents\Unreal Projects\ALMP_Template\ALMP_Template_WwiseProject\.cache\Mac\SFX\laugh 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Laugh\laugh 3		387480
-	742023931	fire	C:\Users\monolok\Documents\Unreal Projects\ALMP_Template\ALMP_Template_WwiseProject\.cache\Mac\SFX\fire_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\fire		22338536
-	755850697	laugh 4	C:\Users\monolok\Documents\Unreal Projects\ALMP_Template\ALMP_Template_WwiseProject\.cache\Mac\SFX\laugh 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Laugh\laugh 4		594500
-	984041119	laugh 1	C:\Users\monolok\Documents\Unreal Projects\ALMP_Template\ALMP_Template_WwiseProject\.cache\Mac\SFX\laugh 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Laugh\laugh 1		876164
+	88913929	laugh 2	C:\Users\monolok\Documents\Unreal Projects\ALMP_Template_2\ALMP_Template_WwiseProject\.cache\Mac\SFX\laugh 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Laugh\laugh 2		617536
+	595964375	laugh 3	C:\Users\monolok\Documents\Unreal Projects\ALMP_Template_2\ALMP_Template_WwiseProject\.cache\Mac\SFX\laugh 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Laugh\laugh 3		387480
+	742023931	fire	C:\Users\monolok\Documents\Unreal Projects\ALMP_Template_2\ALMP_Template_WwiseProject\.cache\Mac\SFX\fire_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\fire		22338536
+	755850697	laugh 4	C:\Users\monolok\Documents\Unreal Projects\ALMP_Template_2\ALMP_Template_WwiseProject\.cache\Mac\SFX\laugh 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Laugh\laugh 4		594500
+	984041119	laugh 1	C:\Users\monolok\Documents\Unreal Projects\ALMP_Template_2\ALMP_Template_WwiseProject\.cache\Mac\SFX\laugh 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Laugh\laugh 1		876164
 

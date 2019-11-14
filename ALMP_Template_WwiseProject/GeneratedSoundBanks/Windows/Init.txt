@@ -8,5 +8,6 @@ Auxiliary Bus	ID	Name			Wwise Object Path	Notes
 
 Audio Devices	ID	Name	Type				Notes
 	1233103783	VR_System	System			
+	2317455096	No_Output	No Output			
 	3859886410	System	System			
 

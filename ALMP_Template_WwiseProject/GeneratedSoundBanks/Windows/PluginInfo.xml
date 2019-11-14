@@ -2,5 +2,6 @@
 <PluginInfo Project="ALMP_Template_WwiseProject" Platform="Windows" BasePlatform="Windows">
 	<Plugins>
 		<Plugin Name="System" ID="11403271" DLL="DefaultSink"/>
+		<Plugin Name="No Output" ID="11862023" DLL="DefaultSink"/>
 	</Plugins>
 </PluginInfo>

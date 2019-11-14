@@ -126,6 +126,9 @@
 						<Reference Name="OutputBus">
 							<ObjectRef Name="Priest Master Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B7F61A54-0314-46BA-9CF4-EB2BB8EE990A}"/>
 						</Reference>
+						<Reference Name="UserAuxSend0">
+							<ObjectRef Name="Poltergeist_Aux_Bus" ID="{D67E5A1D-5486-4957-B9F1-DEF277CEA8DA}" WorkUnitID="{B7F61A54-0314-46BA-9CF4-EB2BB8EE990A}"/>
+						</Reference>
 					</ReferenceList>
 					<ChildrenList>
 						<AudioFileSource Name="fire" ID="{74151E0C-30ED-4C31-9686-89F696855E15}" ShortID="742023931">
