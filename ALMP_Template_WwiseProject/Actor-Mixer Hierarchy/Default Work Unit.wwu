@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{C15AD880-766D-4DFB-BC51-E79714C8F241}" SchemaVersion="94">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{C15AD880-766D-4DFB-BC51-E79714C8F241}" PersistMode="Standalone">
+			<ChildrenList>
+				<RandomSequenceContainer Name="Laugh" ID="{CC3879A2-8C1A-4B40-AA54-3749D22628C9}" ShortID="943810285">
+					<PropertyList>
+						<Property Name="3DSpatialization" Type="int16" Value="2"/>
+						<Property Name="NormalOrShuffle" Type="int16" Value="0"/>
+						<Property Name="Pitch" Type="int32">
+							<ModifierList>
+								<ModifierInfo>
+									<Modifier Name="" ID="{29BEDE9D-8AD4-4AE3-8AB5-366544B2E0D4}">
+										<PropertyList>
+											<Property Name="Enabled" Type="bool" Value="True"/>
+											<Property Name="Max" Type="Real64" Value="100"/>
+											<Property Name="Min" Type="Real64" Value="-100"/>
+										</PropertyList>
+									</Modifier>
+								</ModifierInfo>
+							</ModifierList>
+						</Property>
+						<Property Name="RandomAvoidRepeatingCount" Type="int32" Value="2"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Attenuation">
+							<ObjectRef Name="Default" ID="{63DB79E2-1F4D-4515-B0B5-1EEEC5A5BD6E}" WorkUnitID="{D09ADB07-EC22-4712-AF8A-DCD86DF305EE}"/>
+						</Reference>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{620D66FB-E762-4BBF-9EF0-2AB77147181F}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Priest Master Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B7F61A54-0314-46BA-9CF4-EB2BB8EE990A}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="laugh 1" ID="{6B2D8B73-313A-45DD-AA74-E85694C999F4}" ShortID="449123591">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{620D66FB-E762-4BBF-9EF0-2AB77147181F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Priest Master Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B7F61A54-0314-46BA-9CF4-EB2BB8EE990A}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="laugh 1" ID="{1495F15E-36C1-45C4-BC5B-AD9BE50650F8}" ShortID="984041119">
+									<Language>SFX</Language>
+									<AudioFile>laugh 1.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="laugh 1" ID="{1495F15E-36C1-45C4-BC5B-AD9BE50650F8}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="laugh 2" ID="{26E419C5-ECD7-44B8-AC0A-8DA1333EB2C6}" ShortID="430377263">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{620D66FB-E762-4BBF-9EF0-2AB77147181F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Priest Master Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B7F61A54-0314-46BA-9CF4-EB2BB8EE990A}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="laugh 2" ID="{895E1736-3CCA-42B6-9A70-A6E28A6190CA}" ShortID="88913929">
+									<Language>SFX</Language>
+									<AudioFile>laugh 2.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="laugh 2" ID="{895E1736-3CCA-42B6-9A70-A6E28A6190CA}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="laugh 3" ID="{DC402D69-8462-42F3-B4C6-BFB87BBB892D}" ShortID="956829044">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{620D66FB-E762-4BBF-9EF0-2AB77147181F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Priest Master Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B7F61A54-0314-46BA-9CF4-EB2BB8EE990A}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="laugh 3" ID="{F6121F05-452A-4D1D-8F0B-935047C8F9E5}" ShortID="595964375">
+									<Language>SFX</Language>
+									<AudioFile>laugh 3.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="laugh 3" ID="{F6121F05-452A-4D1D-8F0B-935047C8F9E5}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="laugh 4" ID="{8446217C-8E3B-4AE4-AAE8-295A58864B95}" ShortID="476351227">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{620D66FB-E762-4BBF-9EF0-2AB77147181F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Priest Master Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B7F61A54-0314-46BA-9CF4-EB2BB8EE990A}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="laugh 4" ID="{8EE77E43-499E-4FE4-950C-CB859DD171A7}" ShortID="755850697">
+									<Language>SFX</Language>
+									<AudioFile>laugh 4.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="laugh 4" ID="{8EE77E43-499E-4FE4-950C-CB859DD171A7}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</RandomSequenceContainer>
+				<Sound Name="fire" ID="{F199E364-432A-450E-9F91-3508D8347C6F}" ShortID="892940117">
+					<PropertyList>
+						<Property Name="3DSpatialization" Type="int16" Value="2"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Attenuation">
+							<ObjectRef Name="Default" ID="{63DB79E2-1F4D-4515-B0B5-1EEEC5A5BD6E}" WorkUnitID="{D09ADB07-EC22-4712-AF8A-DCD86DF305EE}"/>
+						</Reference>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{620D66FB-E762-4BBF-9EF0-2AB77147181F}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Priest Master Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B7F61A54-0314-46BA-9CF4-EB2BB8EE990A}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="fire" ID="{74151E0C-30ED-4C31-9686-89F696855E15}" ShortID="742023931">
+							<Language>SFX</Language>
+							<AudioFile>fire.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="fire" ID="{74151E0C-30ED-4C31-9686-89F696855E15}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

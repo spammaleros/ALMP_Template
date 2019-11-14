@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{D4E7A0A8-FD33-4950-9896-A8615C101033}" SchemaVersion="94">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{D4E7A0A8-FD33-4950-9896-A8615C101033}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="General" ID="{72FE41EF-1615-4DD7-B66C-64BCA55CCDA8}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Priest_Aux_Bus" ID="{2F347AD7-0AD0-4123-B283-4C44A684ABA0}" WorkUnitID="{B7F61A54-0314-46BA-9CF4-EB2BB8EE990A}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Priest Master Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B7F61A54-0314-46BA-9CF4-EB2BB8EE990A}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="laugh 3" ID="{DC402D69-8462-42F3-B4C6-BFB87BBB892D}" WorkUnitID="{C15AD880-766D-4DFB-BC51-E79714C8F241}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="laugh 2" ID="{26E419C5-ECD7-44B8-AC0A-8DA1333EB2C6}" WorkUnitID="{C15AD880-766D-4DFB-BC51-E79714C8F241}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="fire" ID="{F199E364-432A-450E-9F91-3508D8347C6F}" WorkUnitID="{C15AD880-766D-4DFB-BC51-E79714C8F241}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="laugh 1" ID="{6B2D8B73-313A-45DD-AA74-E85694C999F4}" WorkUnitID="{C15AD880-766D-4DFB-BC51-E79714C8F241}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Fire" ID="{1411F3D0-77E4-4637-AA83-76CFF221C343}" WorkUnitID="{FC4164F1-1A73-4E5A-809C-2805F24E31C7}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Poltergeist_Aux_Bus" ID="{D67E5A1D-5486-4957-B9F1-DEF277CEA8DA}" WorkUnitID="{B7F61A54-0314-46BA-9CF4-EB2BB8EE990A}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="laugh 4" ID="{8446217C-8E3B-4AE4-AAE8-295A58864B95}" WorkUnitID="{C15AD880-766D-4DFB-BC51-E79714C8F241}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Laugh" ID="{CC3879A2-8C1A-4B40-AA54-3749D22628C9}" WorkUnitID="{C15AD880-766D-4DFB-BC51-E79714C8F241}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Poltergeist Master Bus" ID="{178B8C8B-70E0-4DAA-83F0-F4678253FB32}" WorkUnitID="{B7F61A54-0314-46BA-9CF4-EB2BB8EE990A}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Laugh" ID="{A081E4F4-A796-4FD3-B446-EC5838A2D30C}" WorkUnitID="{FC4164F1-1A73-4E5A-809C-2805F24E31C7}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

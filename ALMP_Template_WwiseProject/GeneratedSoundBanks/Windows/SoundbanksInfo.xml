@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="134">
+	<RootPaths>
+		<ProjectRoot>C:\Users\monolok\Documents\Unreal Projects\ALMP_Template\ALMP_Template_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\monolok\Documents\Unreal Projects\ALMP_Template\ALMP_Template_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\monolok\Documents\Unreal Projects\ALMP_Template\ALMP_Template_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\monolok\Documents\Unreal Projects\ALMP_Template\ALMP_Template_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="133642231" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\General</ObjectPath>
+			<ShortName>General</ShortName>
+			<Path>General.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2678880713" Name="Fire" ObjectPath="\Events\Default Work Unit\Fire"/>
+				<Event Id="4016454680" Name="Laugh" ObjectPath="\Events\Default Work Unit\Laugh"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="88913929" Language="SFX">
+					<ShortName>laugh 2.wav</ShortName>
+					<Path>SFX\laugh 2_10C4C929.wem</Path>
+				</File>
+				<File Id="595964375" Language="SFX">
+					<ShortName>laugh 3.wav</ShortName>
+					<Path>SFX\laugh 3_10C4C929.wem</Path>
+				</File>
+				<File Id="742023931" Language="SFX">
+					<ShortName>fire.wav</ShortName>
+					<Path>SFX\fire_10C4C929.wem</Path>
+				</File>
+				<File Id="755850697" Language="SFX">
+					<ShortName>laugh 4.wav</ShortName>
+					<Path>SFX\laugh 4_10C4C929.wem</Path>
+				</File>
+				<File Id="984041119" Language="SFX">
+					<ShortName>laugh 1.wav</ShortName>
+					<Path>SFX\laugh 1_10C4C929.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

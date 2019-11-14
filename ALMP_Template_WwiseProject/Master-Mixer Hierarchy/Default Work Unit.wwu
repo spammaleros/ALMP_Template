@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{B7F61A54-0314-46BA-9CF4-EB2BB8EE990A}" SchemaVersion="94">
+	<Busses>
+		<WorkUnit Name="Default Work Unit" ID="{B7F61A54-0314-46BA-9CF4-EB2BB8EE990A}" PersistMode="Standalone">
+			<ChildrenList>
+				<Bus Name="Priest Master Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}">
+					<ReferenceList>
+						<Reference Name="AudioDevice">
+							<ObjectRef Name="System" ID="{1307EB32-C737-4DCA-92BD-6E9FC5588718}" WorkUnitID="{885724BE-9B91-4003-8580-BA59771AD79D}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AuxBus Name="Priest_Aux_Bus" ID="{2F347AD7-0AD0-4123-B283-4C44A684ABA0}"/>
+					</ChildrenList>
+				</Bus>
+				<Bus Name="Poltergeist Master Bus" ID="{178B8C8B-70E0-4DAA-83F0-F4678253FB32}">
+					<ReferenceList>
+						<Reference Name="AudioDevice" PluginName="System" CompanyID="0" PluginID="174" PluginType="7">
+							<ObjectRef Name="VR_System" ID="{8C201EF6-CEBE-4669-875A-3A1FBD659E76}" WorkUnitID="{885724BE-9B91-4003-8580-BA59771AD79D}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AuxBus Name="Poltergeist_Aux_Bus" ID="{D67E5A1D-5486-4957-B9F1-DEF277CEA8DA}"/>
+					</ChildrenList>
+				</Bus>
+			</ChildrenList>
+		</WorkUnit>
+	</Busses>
+</WwiseDocument>
