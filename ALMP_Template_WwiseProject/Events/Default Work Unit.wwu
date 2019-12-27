@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{FC4164F1-1A73-4E5A-809C-2805F24E31C7}" SchemaVersion="94">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{FC4164F1-1A73-4E5A-809C-2805F24E31C7}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Fire" ID="{1411F3D0-77E4-4637-AA83-76CFF221C343}">
+					<ChildrenList>
+						<Action Name="" ID="{283922C7-9FC9-4CAB-B385-4B9FEF30AEB0}" ShortID="315507454">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="fire" ID="{F199E364-432A-450E-9F91-3508D8347C6F}" WorkUnitID="{C15AD880-766D-4DFB-BC51-E79714C8F241}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Laugh" ID="{A081E4F4-A796-4FD3-B446-EC5838A2D30C}">
+					<ChildrenList>
+						<Action Name="" ID="{EC1D950D-8B95-411B-BF73-1879D3C8D8F9}" ShortID="863152652">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Laugh" ID="{CC3879A2-8C1A-4B40-AA54-3749D22628C9}" WorkUnitID="{C15AD880-766D-4DFB-BC51-E79714C8F241}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

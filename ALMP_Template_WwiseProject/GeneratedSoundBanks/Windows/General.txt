@@ -1,0 +1,19 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2678880713	Fire			\Default Work Unit\Fire	
+	4016454680	Laugh			\Default Work Unit\Laugh	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	1804454880	Priest Master Bus			\Default Work Unit\Priest Master Bus	
+	2123684067	Poltergeist Master Bus			\Default Work Unit\Poltergeist Master Bus	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	119618752	Priest_Aux_Bus			\Default Work Unit\Priest Master Bus\Priest_Aux_Bus	
+	336470629	Poltergeist_Aux_Bus			\Default Work Unit\Poltergeist Master Bus\Poltergeist_Aux_Bus	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	88913929	laugh 2	C:\Users\monolok\Documents\Unreal Projects\ALMP_Template_2\ALMP_Template_WwiseProject\.cache\Windows\SFX\laugh 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Laugh\laugh 2		617536
+	595964375	laugh 3	C:\Users\monolok\Documents\Unreal Projects\ALMP_Template_2\ALMP_Template_WwiseProject\.cache\Windows\SFX\laugh 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Laugh\laugh 3		387480
+	742023931	fire	C:\Users\monolok\Documents\Unreal Projects\ALMP_Template_2\ALMP_Template_WwiseProject\.cache\Windows\SFX\fire_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\fire		22338536
+	755850697	laugh 4	C:\Users\monolok\Documents\Unreal Projects\ALMP_Template_2\ALMP_Template_WwiseProject\.cache\Windows\SFX\laugh 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Laugh\laugh 4		594500
+	984041119	laugh 1	C:\Users\monolok\Documents\Unreal Projects\ALMP_Template_2\ALMP_Template_WwiseProject\.cache\Windows\SFX\laugh 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Laugh\laugh 1		876164
+

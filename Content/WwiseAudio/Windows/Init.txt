@@ -1,0 +1,13 @@
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	1804454880	Priest Master Bus			\Default Work Unit\Priest Master Bus	
+	2123684067	Poltergeist Master Bus			\Default Work Unit\Poltergeist Master Bus	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	119618752	Priest_Aux_Bus			\Default Work Unit\Priest Master Bus\Priest_Aux_Bus	
+	336470629	Poltergeist_Aux_Bus			\Default Work Unit\Poltergeist Master Bus\Poltergeist_Aux_Bus	
+
+Audio Devices	ID	Name	Type				Notes
+	1233103783	VR_System	System			
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+
