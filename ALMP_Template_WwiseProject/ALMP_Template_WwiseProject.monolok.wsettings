@@ -81,7 +81,7 @@
 				<Property Name="ProjectExplorer\x64_Expanded_6_1" Type="string" Value="qKDn1DP9UEmYlqhhXBAQMw=="/>
 				<Property Name="ProjectExplorer\x64_Expanded_7_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_8_1" Type="string" Value="dUSpg2BV2kyT8VSBFtdq8A=="/>
-				<Property Name="SoundBank Manager\x64_Expand States" Type="string" Value="qKDn1DP9UEmYlqhhXBAQMw=="/>
+				<Property Name="SoundBank Manager\x64_Expand States" Type="string" Value=""/>
 				<Property Name="SoundBankHeaderFilePath" Type="string" Value="GeneratedSoundBanks\"/>
 				<Property Name="SoundBankPaths" Type="string">
 					<ValueList>

@@ -131,13 +131,13 @@
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
-						<AudioFileSource Name="fire" ID="{74151E0C-30ED-4C31-9686-89F696855E15}" ShortID="742023931">
+						<AudioFileSource Name="generator" ID="{CF9C5247-02DB-4149-85F8-87FAB1354B43}" ShortID="311689954">
 							<Language>SFX</Language>
-							<AudioFile>fire.wav</AudioFile>
+							<AudioFile>generator.wav</AudioFile>
 						</AudioFileSource>
 					</ChildrenList>
 					<ActiveSourceList>
-						<ActiveSource Name="fire" ID="{74151E0C-30ED-4C31-9686-89F696855E15}" Platform="Linked"/>
+						<ActiveSource Name="generator" ID="{CF9C5247-02DB-4149-85F8-87FAB1354B43}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
 			</ChildrenList>

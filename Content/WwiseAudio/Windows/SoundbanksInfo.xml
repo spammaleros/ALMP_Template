@@ -24,13 +24,13 @@
 					<ShortName>laugh 2.wav</ShortName>
 					<Path>SFX\laugh 2_10C4C929.wem</Path>
 				</File>
+				<File Id="311689954" Language="SFX">
+					<ShortName>generator.wav</ShortName>
+					<Path>SFX\generator_10C4C929.wem</Path>
+				</File>
 				<File Id="595964375" Language="SFX">
 					<ShortName>laugh 3.wav</ShortName>
 					<Path>SFX\laugh 3_10C4C929.wem</Path>
-				</File>
-				<File Id="742023931" Language="SFX">
-					<ShortName>fire.wav</ShortName>
-					<Path>SFX\fire_10C4C929.wem</Path>
 				</File>
 				<File Id="755850697" Language="SFX">
 					<ShortName>laugh 4.wav</ShortName>
