@@ -30,7 +30,7 @@
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{620D66FB-E762-4BBF-9EF0-2AB77147181F}"/>
 						</Reference>
 						<Reference Name="OutputBus">
-							<ObjectRef Name="Poltergeist Master Bus" ID="{178B8C8B-70E0-4DAA-83F0-F4678253FB32}" WorkUnitID="{B7F61A54-0314-46BA-9CF4-EB2BB8EE990A}"/>
+							<ObjectRef Name="primary_bus" ID="{178B8C8B-70E0-4DAA-83F0-F4678253FB32}" WorkUnitID="{B7F61A54-0314-46BA-9CF4-EB2BB8EE990A}"/>
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
@@ -40,7 +40,7 @@
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{620D66FB-E762-4BBF-9EF0-2AB77147181F}"/>
 								</Reference>
 								<Reference Name="OutputBus">
-									<ObjectRef Name="Priest Master Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B7F61A54-0314-46BA-9CF4-EB2BB8EE990A}"/>
+									<ObjectRef Name="secondary_bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B7F61A54-0314-46BA-9CF4-EB2BB8EE990A}"/>
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
@@ -59,7 +59,7 @@
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{620D66FB-E762-4BBF-9EF0-2AB77147181F}"/>
 								</Reference>
 								<Reference Name="OutputBus">
-									<ObjectRef Name="Priest Master Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B7F61A54-0314-46BA-9CF4-EB2BB8EE990A}"/>
+									<ObjectRef Name="secondary_bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B7F61A54-0314-46BA-9CF4-EB2BB8EE990A}"/>
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
@@ -78,7 +78,7 @@
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{620D66FB-E762-4BBF-9EF0-2AB77147181F}"/>
 								</Reference>
 								<Reference Name="OutputBus">
-									<ObjectRef Name="Priest Master Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B7F61A54-0314-46BA-9CF4-EB2BB8EE990A}"/>
+									<ObjectRef Name="secondary_bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B7F61A54-0314-46BA-9CF4-EB2BB8EE990A}"/>
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
@@ -97,7 +97,7 @@
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{620D66FB-E762-4BBF-9EF0-2AB77147181F}"/>
 								</Reference>
 								<Reference Name="OutputBus">
-									<ObjectRef Name="Priest Master Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B7F61A54-0314-46BA-9CF4-EB2BB8EE990A}"/>
+									<ObjectRef Name="secondary_bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B7F61A54-0314-46BA-9CF4-EB2BB8EE990A}"/>
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
@@ -124,7 +124,7 @@
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{620D66FB-E762-4BBF-9EF0-2AB77147181F}"/>
 						</Reference>
 						<Reference Name="OutputBus">
-							<ObjectRef Name="Priest Master Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B7F61A54-0314-46BA-9CF4-EB2BB8EE990A}"/>
+							<ObjectRef Name="secondary_bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B7F61A54-0314-46BA-9CF4-EB2BB8EE990A}"/>
 						</Reference>
 						<Reference Name="UserAuxSend0">
 							<ObjectRef Name="Poltergeist_Aux_Bus" ID="{D67E5A1D-5486-4957-B9F1-DEF277CEA8DA}" WorkUnitID="{B7F61A54-0314-46BA-9CF4-EB2BB8EE990A}"/>

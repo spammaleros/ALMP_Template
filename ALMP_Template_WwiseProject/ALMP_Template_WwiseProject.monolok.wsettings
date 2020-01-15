@@ -29,7 +29,7 @@
 				<Property Name="GenerateSoundBanks\x64_SelectedPlatforms" Type="string" Value="PkIyi0S0zEm509mQggbx7Q=="/>
 				<Property Name="GenerateSoundBanks\x64_SelectedSoundBanks" Type="string" Value=""/>
 				<Property Name="HardwareController\CurrentSession" Type="string" Value="{2451DD2E-A7B2-45E6-B93B-6F49B9B887AD}"/>
-				<Property Name="HardwareController\{2451DD2E-A7B2-45E6-B93B-6F49B9B887AD}\x64_ActiveGroups" Type="string" Value="eKXd/5kMiEWSHfbruZsWpgH/////////yDLoxyFvS06W1bTzOj4jaAD/////////"/>
+				<Property Name="HardwareController\{2451DD2E-A7B2-45E6-B93B-6F49B9B887AD}\x64_ActiveGroups" Type="string" Value="yDLoxyFvS06W1bTzOj4jaAD/////////eKXd/5kMiEWSHfbruZsWpgH/////////"/>
 				<Property Name="IntegrityReport\AudioFilesAndSources" Type="bool" Value="True"/>
 				<Property Name="IntegrityReport\BrokenReferences" Type="bool" Value="True"/>
 				<Property Name="IntegrityReport\EnableLanguages" Type="bool" Value="True"/>
@@ -70,7 +70,7 @@
 				<Property Name="ProjectExplorer\x64_Expanded_16_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_17_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_18_1" Type="string" Value=""/>
-				<Property Name="ProjectExplorer\x64_Expanded_19_1" Type="string" Value=""/>
+				<Property Name="ProjectExplorer\x64_Expanded_19_1" Type="string" Value="qsKQOzIPMU6f5UTspJHSfg=="/>
 				<Property Name="ProjectExplorer\x64_Expanded_1_1" Type="string" Value="2KQUFaYdKkGhfnXKDCFJ81Qa9rcUA7pGnPTrK7jumQqLjIsX4HCqTYPw9GeCU/sy"/>
 				<Property Name="ProjectExplorer\x64_Expanded_20_1" Type="string" Value="viRXiJGbA0CFgLpZdxrXnQ=="/>
 				<Property Name="ProjectExplorer\x64_Expanded_21_1" Type="string" Value="yMZhOrH6Ck+1ZiAwK+bI8w=="/>
