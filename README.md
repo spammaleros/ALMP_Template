@@ -1,3 +1,3 @@
-# ALMP_Template
 
-Developed with Unreal Engine 4
+- Forward shading ON
+- Instanced Stereo ON
