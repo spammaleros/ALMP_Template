@@ -1,6 +1,6 @@
-ALMP or Asymmetrical Local Multiplayer Template is a free Blueprint-only template that will help you build games in which VR and non-VR players play on one PC.
+**ALMP** or **Asymmetrical Local Multiplayer** Template is a free Blueprint-only template that will help you build games in which VR and non-VR players play on one PC.
 
-It's not ideal, but it's a start. I tried to comment everything, however if you feel lost, have a question or found a bug feel free to ask here or on Discord(spammaleros#3771).
+It's not ideal, but it's a start. I tried to comment everything, however if you feel lost, have a question or found a bug feel free to message me here or on Discord(spammaleros#3771).
 
 **Unreal Engine:** 4.22
 
