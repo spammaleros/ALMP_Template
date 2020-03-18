@@ -8,7 +8,7 @@ It's not ideal, but it's a start. I tried to comment everything, however if you 
 
 *PC*
 
-- Shift + V To Toggle VR Mode
+- Shift + V To Toggle VR Camera
 - WASD To Move
 - Space To Jump
 
