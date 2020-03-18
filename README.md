@@ -3,17 +3,18 @@ ALMP or Asymmetrical Local Multiplayer Template is a free Blueprint-only templat
 It's not ideal, but it's a start. I tried to comment everything, however if you feel lost, have a question or found a bug feel free to ask here or on Discord(spammaleros#3771).
 
 **Unreal Engine:** 
+
 4.22
 
 **Features And Controls:**
 
-*PC
+*PC*
 
 Shift + V To Toggle VR Mode
 WASD To Move
 Space To Jump
 
-*VR
+*VR*
 
 Hold And Release Face 1(Vive) or X/A(Oculus) To Teleport
 Trigger To Grab
