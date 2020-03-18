@@ -7,10 +7,8 @@ It's not ideal, but it's a start. I tried to comment everything, however if you 
 
 **Features And Controls:**
 
-Shift + V To Toggle VR Mode
-
 PC
-
+Shift + V To Toggle VR Mode
 WASD To Move
 Space To Jump
 
