@@ -1,4 +1,4 @@
-![alt text](https://github.com/spammaleros/ALMP_Template/blob/master/ALMP_Template.png "ALMP_Template")
+![alt text](https://github.com/spammaleros/ALMP_Template/blob/master/Thumbnail_README.png "ALMP_Template")
 
 **ALMP** or **Asymmetrical Local Multiplayer** Template is a free Blueprint-only template that will help you build games in which VR and non-VR players play on one PC.
 
