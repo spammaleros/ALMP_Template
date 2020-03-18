@@ -4,6 +4,17 @@ It's not ideal, but it's a start. I tried to comment everything, however if you 
 
 **Unreal Engine:** 4.22
 
+**Features And Controls:**
+Shift + V To Toggle VR Mode
+
+PC
+WASD To Move
+Space To Jump
+
+VR
+Hold And Release Face 1(Vive) or X/A(Oculus) To Teleport
+Trigger To Grab
+
 **Supported HMDs:**
 1. Oculus Rift
 2. Oculus Rift S
