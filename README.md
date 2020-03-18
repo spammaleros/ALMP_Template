@@ -28,3 +28,7 @@ It's not ideal, but it's a start. I tried to comment everything, however if you 
 **Optimizations:**
 - Forward shading ON
 - Instanced Stereo ON
+
+===
+
+This project is licensed under the terms of the MIT license.
