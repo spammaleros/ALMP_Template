@@ -7,12 +7,13 @@ It's not ideal, but it's a start. I tried to comment everything, however if you 
 
 **Features And Controls:**
 
-PC
+*PC
+
 Shift + V To Toggle VR Mode
 WASD To Move
 Space To Jump
 
-VR
+*VR
 
 Hold And Release Face 1(Vive) or X/A(Oculus) To Teleport
 Trigger To Grab
