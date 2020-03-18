@@ -31,4 +31,4 @@ It's not ideal, but it's a start. I tried to comment everything, however if you 
 
 ===
 
-This project is licensed under the terms of the MIT license.
+This project is licensed under the terms of the MIT license. Commercial use is allowed.
